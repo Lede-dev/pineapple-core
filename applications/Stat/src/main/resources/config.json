@@ -1,0 +1,58 @@
+{
+    "strengthIcon": {
+      "type": 286,
+      "model": 1
+    },
+    "magicIcon": {
+      "type": 286,
+      "model": 2
+    },
+    "agilityIcon": {
+      "type": 286,
+      "model": 3
+    },
+    "deftnessIcon": {
+        "type": 286,
+        "model": 4
+    },
+    "abilityIcon": {
+        "type": 399,
+        "model": 0
+    },
+    "netherStarIcon": {
+        "type": 399,
+        "model": 0
+    },
+    "statPoint": 3,
+    "additionalStatPoint": 1,
+    "specialStatPoint": {
+        "5": 5,
+        "10": 5,
+        "20": 5
+    },
+    "maxStat": {
+        "STRENGTH": 100,
+        "MAGIC": 100,
+        "AGILITY": 100,
+        "DEFTNESS": 100,
+        "NETHER_STAR": 150
+    },
+    "strengthDamage": 0.25,
+    "strengthHealth": 0.15,
+    "magicHealth": 0.2,
+    "magicSkill": 5,
+    "magicDamage": 0,
+    "agilityDamage": 0.2,
+    "agilityHealth": 0,
+    "agilitySpeed": 1.0,
+    "deftnessDamage": 0.05,
+    "deftnessHealth": 0.4,
+    "netherStarPercentage": 1.0,
+    "passivePercentage": 10.0,
+    "enableNetherStarStat": false,
+    "enableNetherStarSpeed": false,
+    "speedIncreasePercentage": 0.1,
+    "statRandomTicketMaxValue": 10,
+    "enableArrowStatDamage": true,
+    "enableArrowNetherStatDamage": true
+}

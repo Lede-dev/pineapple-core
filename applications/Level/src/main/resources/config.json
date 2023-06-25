@@ -1,0 +1,13 @@
+{
+    "applyBuffToExpBook": true,
+    "expRemovePercentage": 10,
+    "maxLevel": 100,
+    "levelMessage": true,
+    "requiredExp": {
+        "1": "1000",
+        "2": "10000",
+        "3": "100000",
+        "4": "1000000",
+        "5": "10000000"
+    }
+}

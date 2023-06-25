@@ -1,0 +1,6 @@
+name: Level
+version: '${version}'
+main: me.lede.level.Level
+authors: [ Lede ]
+
+prefix: Level

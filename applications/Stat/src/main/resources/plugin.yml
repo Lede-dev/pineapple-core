@@ -1,0 +1,8 @@
+name: Stat
+version: '${version}'
+main: me.lede.stat.Stat
+authors: [ Lede ]
+
+depend:
+  - Level
+  - MagicSpells

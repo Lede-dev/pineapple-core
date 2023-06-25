@@ -1,0 +1,11 @@
+rootProject.name = 'PineappleCore'
+
+
+include ':applications:Stat'
+include ':applications:Level'
+include ':applications:Skill'
+
+
+include 'modules:lede-module-utils'
+
+

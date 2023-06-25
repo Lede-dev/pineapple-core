@@ -1,0 +1,4 @@
+name: Skill
+version: '${version}'
+main: me.lede.skill.Skill
+authors: [ Lede ]

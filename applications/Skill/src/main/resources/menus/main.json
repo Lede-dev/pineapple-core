@@ -1,0 +1,37 @@
+{
+  "strength": {
+    "type": 286,
+    "model": 1,
+    "name": "&c&l근력",
+    "lore": [
+    ]
+  },
+  "magic": {
+    "type": 286,
+    "model": 2,
+    "name": "&b&l마법",
+    "lore": [
+    ]
+  },
+  "agility": {
+    "type": 286,
+    "model": 3,
+    "name": "&e&l민첩",
+    "lore": [
+    ]
+  },
+  "deftness": {
+    "type": 286,
+    "model": 4,
+    "name": "&2&l손재주",
+    "lore": [
+    ]
+  },
+  "prev": {
+    "type": 160,
+    "model": 5,
+    "name": "&f돌아가기",
+    "lore": [
+    ]
+  }
+}

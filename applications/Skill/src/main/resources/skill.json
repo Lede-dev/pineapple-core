@@ -1,0 +1,393 @@
+{
+  "strengthSkill": {
+    "spells": {
+      "TIER_1": {
+        "required": {
+          "level": 0,
+          "strength": 5,
+          "magic": 0,
+          "agility": 0,
+          "deftness": 0,
+          "nether": 0
+        },
+        "skill": [
+          "돌진"
+        ]
+      },
+      "TIER_2": {
+        "required": {
+          "level": 0,
+          "strength": 20,
+          "magic": 0,
+          "agility": 0,
+          "deftness": 0,
+          "nether": 0
+        },
+        "skill": [
+          "검격"
+        ]
+      },
+      "TIER_3": {
+        "required": {
+          "level": 0,
+          "strength": 40,
+          "magic": 0,
+          "agility": 0,
+          "deftness": 0,
+          "nether": 0
+        },
+        "skill": [
+          "광기의외침"
+        ]
+      },
+      "TIER_4": {
+        "required": {
+          "level": 0,
+          "strength": 60,
+          "magic": 0,
+          "agility": 0,
+          "deftness": 0,
+          "nether": 0
+        },
+        "skill": [
+          "강체화"
+        ]
+      },
+      "TIER_5": {
+        "required": {
+          "level": 0,
+          "strength": 80,
+          "magic": 0,
+          "agility": 0,
+          "deftness": 0,
+          "nether": 0
+        },
+        "skill": [
+          "생즉필사필사생측"
+        ]
+      },
+      "TIER_6": {
+        "required": {
+          "level": 0,
+          "strength": 100,
+          "magic": 0,
+          "agility": 0,
+          "deftness": 0,
+          "nether": 0
+        },
+        "skill": [
+          "피의검무"
+        ]
+      },
+      "QUEST": {
+        "required": {
+          "level": 0,
+          "strength": 100,
+          "magic": 0,
+          "agility": 0,
+          "deftness": 0,
+          "nether": 0
+        },
+        "skill": [
+          "신수의힘"
+        ]
+      }
+    }
+
+
+
+  },
+  "magicSkill": {
+    "spells": {
+      "TIER_1": {
+        "required": {
+          "level": 0,
+          "strength": 0,
+          "magic": 5,
+          "agility": 0,
+          "deftness": 0,
+          "nether": 0
+        },
+        "skill": [
+          "에너지볼"
+        ]
+      },
+      "TIER_2": {
+        "required": {
+          "level": 0,
+          "strength": 0,
+          "magic": 20,
+          "agility": 0,
+          "deftness": 0,
+          "nether": 0
+        },
+        "skill": [
+          "신체강화"
+        ]
+      },
+      "TIER_3": {
+        "required": {
+          "level": 0,
+          "strength": 0,
+          "magic": 40,
+          "agility": 0,
+          "deftness": 0,
+          "nether": 0
+        },
+        "skill": [
+          "타고난마력",
+          "타고난마력Passive",
+          "타고난마력buff"
+        ]
+      },
+      "TIER_4": {
+        "required": {
+          "level": 0,
+          "strength": 0,
+          "magic": 60,
+          "agility": 0,
+          "deftness": 0,
+          "nether": 0
+        },
+        "skill": [
+          "태초의마력"
+        ]
+      },
+      "TIER_5": {
+        "required": {
+          "level": 0,
+          "strength": 0,
+          "magic": 80,
+          "agility": 0,
+          "deftness": 0,
+          "nether": 0
+        },
+        "skill": [
+          "역행"
+        ]
+      },
+      "TIER_6": {
+        "required": {
+          "level": 0,
+          "strength": 0,
+          "magic": 100,
+          "agility": 0,
+          "deftness": 0,
+          "nether": 0
+        },
+        "skill": [
+          "메테오스트라이크"
+        ]
+      },
+      "QUEST": {
+        "required": {
+          "level": 0,
+          "strength": 0,
+          "magic": 100,
+          "agility": 0,
+          "deftness": 0,
+          "nether": 0
+        },
+        "skill": [
+          "만개"
+        ]
+      }
+    }
+
+
+
+  },
+  "agilitySkill": {
+    "spells": {
+      "TIER_1": {
+        "required": {
+          "level": 0,
+          "strength": 0,
+          "magic": 0,
+          "agility": 5,
+          "deftness": 0,
+          "nether": 0
+        },
+        "skill": [
+          "스쳐가기"
+        ]
+      },
+      "TIER_2": {
+        "required": {
+          "level": 0,
+          "strength": 0,
+          "magic": 0,
+          "agility": 20,
+          "deftness": 0,
+          "nether": 0
+        },
+        "skill": [
+          "출혈"
+        ]
+      },
+      "TIER_3": {
+        "required": {
+          "level": 0,
+          "strength": 0,
+          "magic": 0,
+          "agility": 40,
+          "deftness": 0,
+          "nether": 0
+        },
+        "skill": [
+          "귀환"
+        ]
+      },
+      "TIER_4": {
+        "required": {
+          "level": 0,
+          "strength": 0,
+          "magic": 0,
+          "agility": 60,
+          "deftness": 0,
+          "nether": 0
+        },
+        "skill": [
+          "연화"
+        ]
+      },
+      "TIER_5": {
+        "required": {
+          "level": 0,
+          "strength": 0,
+          "magic": 0,
+          "agility": 80,
+          "deftness": 0,
+          "nether": 0
+        },
+        "skill": [
+          "죽음의왈츠"
+        ]
+      },
+      "TIER_6": {
+        "required": {
+          "level": 0,
+          "strength": 0,
+          "magic": 0,
+          "agility": 100,
+          "deftness": 0,
+          "nether": 0
+        },
+        "skill": [
+          "은신"
+        ]
+      },
+      "QUEST": {
+        "required": {
+          "level": 0,
+          "strength": 0,
+          "magic": 0,
+          "agility": 100,
+          "deftness": 0,
+          "nether": 0
+        },
+        "skill": [
+          "습격"
+        ]
+      }
+    }
+
+
+
+  },
+  "deftnessSkill": {
+    "spells": {
+      "TIER_1": {
+        "required": {
+          "level": 0,
+          "strength": 0,
+          "magic": 0,
+          "agility": 0,
+          "deftness": 5,
+          "nether": 0
+        },
+        "skill": [
+          "국밥"
+        ]
+      },
+      "TIER_2": {
+        "required": {
+          "level": 0,
+          "strength": 0,
+          "magic": 0,
+          "agility": 0,
+          "deftness": 20,
+          "nether": 0
+        },
+        "skill": [
+          "타고난신체"
+        ]
+      },
+      "TIER_3": {
+        "required": {
+          "level": 0,
+          "strength": 0,
+          "magic": 0,
+          "agility": 0,
+          "deftness": 40,
+          "nether": 0
+        },
+        "skill": [
+          "이리와"
+        ]
+      },
+      "TIER_4": {
+        "required": {
+          "level": 0,
+          "strength": 0,
+          "magic": 0,
+          "agility": 0,
+          "deftness": 60,
+          "nether": 0
+        },
+        "skill": [
+          "명상"
+        ]
+      },
+      "TIER_5": {
+        "required": {
+          "level": 0,
+          "strength": 0,
+          "magic": 0,
+          "agility": 0,
+          "deftness": 80,
+          "nether": 0
+        },
+        "skill": [
+          "침묵"
+        ]
+      },
+      "TIER_6": {
+        "required": {
+          "level": 0,
+          "strength": 0,
+          "magic": 0,
+          "agility": 0,
+          "deftness": 100,
+          "nether": 0
+        },
+        "skill": [
+          "죽음의손길"
+        ]
+      },
+      "QUEST": {
+        "required": {
+          "level": 0,
+          "strength": 0,
+          "magic": 0,
+          "agility": 0,
+          "deftness": 100,
+          "nether": 0
+        },
+        "skill": [
+          "신격화"
+        ]
+      }
+    }
+  }
+}
